@@ -27,7 +27,13 @@ initial state of the screen
 
 ![initial state](https://user-images.githubusercontent.com/68875720/105173916-0375ce80-5b22-11eb-95c3-561c1599259b.jpg)
 
+
 input state
 
 ![input state](https://user-images.githubusercontent.com/68875720/105174018-2f914f80-5b22-11eb-8604-083e9349cd3d.jpg)
+
+
+training state
+
+![training state](https://user-images.githubusercontent.com/68875720/105174135-66676580-5b22-11eb-8197-b1966a61674c.jpg)
 
