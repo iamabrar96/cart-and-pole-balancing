@@ -23,4 +23,4 @@ Gradient descent updates weights in the policy network to minimize loss.
 After x time steps, weights in the target network are updated to the weights in the policy network.
 example :
 initial state of the screen
-
+![initial state](https://user-images.githubusercontent.com/68875720/105173916-0375ce80-5b22-11eb-95c3-561c1599259b.jpg)
